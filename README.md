@@ -15,6 +15,6 @@ Im 15 years old and have recently got into development i specifically make disco
 - Code Editor: VSCode - The best editor out there
 ---
 
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+<h3 align=center>Show some ❤️ by dropping a follow</h3>
 
 ---
