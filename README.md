@@ -13,7 +13,6 @@ Im 15 years old and have recently got into development i specifically make disco
 - OS: Windows 11
 - Browser: Brave Browser
 - Code Editor: VSCode - The best editor out there
-- 
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
