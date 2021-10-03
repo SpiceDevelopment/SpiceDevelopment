@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Spicey!](https://spicedevelopment.com/) (Follow Me!)
+## Hey 👋, I'm [Spicey!](https://spicedevelopment.com/)
 
 Im 15 years old and have recently got into development i specifically make discord bot from discord.js
 
