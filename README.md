@@ -6,6 +6,8 @@ Im 15 years old and have recently got into development i specifically make disco
 
 - 🌶️ &nbsp; [Spice Bot V2](https://spicedevelopment.com/store/spicebotv2)
 - 🎫 &nbsp; [Spice Tickets](https://github.com/SpiceDevelopment/Spice-Tickets)
+- 📃 &nbsp; [Spice Embeds](https://github.com/SpiceDevelopment/Spice-Embeds)
+- 🚧 &nbsp; [Spice Tickets](https://github.com/SpiceDevelopment/Spice-Tickets)
 ---
 
 ### ⚙️ My Resources & Tools:
