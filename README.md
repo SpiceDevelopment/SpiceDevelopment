@@ -4,10 +4,10 @@ Im 15 years old and have recently got into development i specifically make disco
 
 ### Some Highlights:
 
-- 🌶️ &nbsp; [Spice Bot V2](https://spicedevelopment.com/store/spicebotv2)
-- 🎫 &nbsp; [Spice Tickets](https://github.com/SpiceDevelopment/Spice-Tickets)
-- 📃 &nbsp; [Spice Embeds](https://github.com/SpiceDevelopment/Spice-Embeds)
-- 🚧 &nbsp; [Spice Filter](https://github.com/SpiceDevelopment/Spice-Filter)
+- 🌶️ &nbsp; [Spice Bot V2](https://spicedevelopment.com/store/spicebotv2) - Currently private as its being revamped
+- 🎫 &nbsp; [Spice Tickets](https://github.com/SpiceDevelopment/Spice-Tickets) - Currently private as its being revamped
+- 📃 &nbsp; [Spice Embeds](https://github.com/SpiceDevelopment/Spice-Embeds) - Currently private as its being revamped
+- 🚧 &nbsp; [Spice Filter](https://github.com/SpiceDevelopment/Spice-Filter) - Currently private as its being revamped
 ---
 
 ### ⚙️ My Resources & Tools:
