@@ -12,9 +12,9 @@ Im 15 years old and have recently got into development i specifically make disco
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
+- OS: Windows 11
 - Browser: Brave Browser
-- Code Editor: VSCode - Just my preference
+- Code Editor: VSCode
 ---
 
 <h3 align=center>Show some ❤️ by dropping a follow</h3>
