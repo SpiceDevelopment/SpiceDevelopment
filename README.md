@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Noah!](https://spicedevelopment.com/)
 
-Im 15 years old and have recently got into development i specifically make discord bot from discord.js
+Im a high school student from new york, i code things in javascript and python, i make discord bots and some website
 
 ### Some Highlights:
 
