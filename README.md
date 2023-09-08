@@ -12,10 +12,5 @@ Im a high school student from new york, i code things in javascript and python, 
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 11
-- Browser: Brave Browser/Firefox
-- Code Editor: VSCode
----
-
-<h3 align=center>Show some ❤️ by dropping a follow</h3>
-
----
+- Browser: Brave Browser
+- IDE: VSCode
