@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Noah!](https://spicedevelopment.com/)
+## Hey 👋, I'm Noah!
 
 Im a high school student from new york, i code things in javascript and python, i make discord bots and some website
 
